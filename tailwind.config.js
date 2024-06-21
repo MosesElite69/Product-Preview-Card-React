@@ -2,8 +2,8 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   fontFamily: {
-    montserrat: ["Montserrat", "sans-serif"],
-    fraunces: ["Fraunces", "sans-serif"],
+    montserrat: ["Montserrat"],
+    fraunces: ["Fraunces"],
   },
   theme: {
     extend: {
